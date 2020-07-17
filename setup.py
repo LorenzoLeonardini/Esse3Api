@@ -2,17 +2,16 @@ from distutils.core import setup
 setup(
     name = 'Esse3Api',
     packages = ['Esse3Api'],
-    version = '1.0',
+    version = '1.1',
     license = 'MIT',
     description = 'A python library to query and interact with Cineca\'s ESSE3 REST API',
     author = 'Lorenzo Leonardini',
     author_email = 'lorenzo@leonardini.dev',
     url = 'https://github.com/LorenzoLeonardini/Esse3Api',
-    download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+    download_url = 'https://github.com/LorenzoLeonardini/Esse3Api/archive/v1.1.tar.gz',
     keywords = ['CINECA', 'ESSE3', 'UNIVERSITY'],
     install_requires = [
         'requests',
-        'json',
     ],
     classifiers = [
         'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package

@@ -1,6 +1,14 @@
 # Esse3Api
 
+> WARNING: this have been hacked together in a couple of hours, don't expect a lot
+
 This python library simplifies the connection of Cineca's REST API for ESSE3. It handles data retrieval transparently and gets the required information on-demand, i.e. API calls are made only when new data is needed.
+
+## Installing
+
+```bash
+pip install Esse3Api
+```
 
 ## Background
 
