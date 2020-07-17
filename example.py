@@ -4,6 +4,7 @@ if __name__ == '__main__':
     from getpass import getpass
 
     import os
+    import shutil
 
     if not os.path.isfile('credentials'):
         user = input('Username: ')
@@ -70,3 +71,7 @@ if __name__ == '__main__':
     print("TASSE")
     print('\tSemaforo: %s' % tasse.semaforo)
     print('\tImporto dovuto: %s' % tasse.importo_dovuto)
+    print('\nImmagine profilo scaricata con nome propic')
+    with open('propic', 'wb') as f:
+        api.propic().decode_content = True
+        shutil.copyfileobj(api.propic(), f) 

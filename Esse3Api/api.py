@@ -45,3 +45,6 @@ class Esse3API:
 
     def tasse(self):
         return self.__user.tasse((self.__session, self.__base_url))
+
+    def propic(self):
+        return self.__user.propic((self.__session, self.__base_url))

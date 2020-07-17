@@ -14,6 +14,7 @@ class Student:
         self.persId = data['user']['persId']
         self.carriera_completa = [ Carriera(x, full_career) for x in data['user']['trattiCarriera'] ]
         self.carriera_index = 0
+        self.picture = None
 
     def seleziona_carriera(self, index):
         if index < 0 or index > len(self.carriera_completa):
@@ -31,3 +32,8 @@ class Student:
 
     def tasse(self, session):
         return self.carriera_completa[self.carriera_index].tasse(session)
+
+    def propic(self, session):
+        if not self.picture:
+            self.picture = session[0].get(session[1] + 'anagrafica-service-v2/persone/' + str(self.persId) + '/foto', stream=True).raw
+        return self.picture
