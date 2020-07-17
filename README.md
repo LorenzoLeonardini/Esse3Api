@@ -22,34 +22,34 @@ I've made a list of all the endpoints I've found, they are already present in th
 
 | University | Tested | Working |
 | ---------- | ------ | ------- |
-| Politecnico di Bari | :x: | :x: |
-| Università degli Studi della Basilicata | :x: | :x: |
-| Università degli Studi di Bari Aldo Moro | :x: | :x: |
-| Università degli Studi di Bergamo | :x: | :x: |
-| Università degli Studi di Brescia | :x: | :x: |
-| Università della Calabria | :x: | :x: |
-| Università degli Studi della Campania Luigi Vanvitelli | :x: | :x: |
-| Università Campus Bio-Medico di Roma | :x: | :x: |
-| Università di Camerino | :x: | :x: |
-| Università degli Studi di Cagliari | :x: | :x: |
-| Università degli Studi G. D'Annunzio Chieti Pescara | :x: | :x: |
-| Università degli Studi di Firenze | :x: | :x: |
-| Università degli Studi Guglielmo Marconi | :x: | :x: |
-| Università degli Studi di Messina | :x: | :x: |
-| Università degli Studi di Milano-Bicocca | :x: | :x: |
-| Università degli Studi di Modena e Reggio Emilia | :x: | :x: |
-| Università degli Studi dell'Insubria | :x: | :x: |
-| Università degli Studi di Perugia | :x: | :x: |
+| Politecnico di Bari | :x: | :grey_question: |
+| Università degli Studi della Basilicata | :x: | :grey_question: |
+| Università degli Studi di Bari Aldo Moro | :x: | :grey_question: |
+| Università degli Studi di Bergamo | :x: | :grey_question: |
+| Università degli Studi di Brescia | :x: | :grey_question: |
+| Università della Calabria | :x: | :grey_question: |
+| Università degli Studi della Campania Luigi Vanvitelli | :x: | :grey_question: |
+| Università Campus Bio-Medico di Roma | :x: | :grey_question: |
+| Università di Camerino | :x: | :grey_question: |
+| Università degli Studi di Cagliari | :x: | :grey_question: |
+| Università degli Studi G. D'Annunzio Chieti Pescara | :x: | :grey_question: |
+| Università degli Studi di Firenze | :x: | :grey_question: |
+| Università degli Studi Guglielmo Marconi | :x: | :grey_question: |
+| Università degli Studi di Messina | :x: | :grey_question: |
+| Università degli Studi di Milano-Bicocca | :x: | :grey_question: |
+| Università degli Studi di Modena e Reggio Emilia | :x: | :grey_question: |
+| Università degli Studi dell'Insubria | :x: | :grey_question: |
+| Università degli Studi di Perugia | :x: | :grey_question: |
 | Università di Pisa | :heavy_check_mark: | :heavy_check_mark: |
-| Università di Parma | :x: | :x: |
-| Università degli Studi di Pavia | :x: | :x: |
-| Università degli Studi della Repubblica di San Marino | :x: | :x: |
-| Università degli Studi del Sannio | :x: | :x: |
-| Università degli Studi di Trento | :x: | :x: |
-| Università di Torino | :x: | :x: |
-| Università degli Studi di Trieste | :x: | :x: |
-| Università degli Studi di Udine | :x: | :x: |
-| Università degli Studi di Urbino Carlo Bo | :x: | :x: |
-| Università degli Studi dell'Aquila | :x: | :x: |
-| Università Ca' Foscari Venezia | :x: | :x: |
-| Università Politecnica delle Marche | :x: | :x: |
+| Università di Parma | :x: | :grey_question: |
+| Università degli Studi di Pavia | :x: | :grey_question: |
+| Università degli Studi della Repubblica di San Marino | :x: | :grey_question: |
+| Università degli Studi del Sannio | :x: | :grey_question: |
+| Università degli Studi di Trento | :x: | :grey_question: |
+| Università di Torino | :x: | :grey_question: |
+| Università degli Studi di Trieste | :x: | :grey_question: |
+| Università degli Studi di Udine | :x: | :grey_question: |
+| Università degli Studi di Urbino Carlo Bo | :x: | :grey_question: |
+| Università degli Studi dell'Aquila | :x: | :grey_question: |
+| Università Ca' Foscari Venezia | :x: | :grey_question: |
+| Università Politecnica delle Marche | :x: | :grey_question: |
