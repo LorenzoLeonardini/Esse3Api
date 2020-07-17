@@ -1,10 +1,10 @@
-import Esse3Api.api as esse3
-import Esse3Api.endpoint
-from getpass import getpass
-
-import os
-
 if __name__ == '__main__':
+    import Esse3Api.api as esse3
+    import Esse3Api.endpoint
+    from getpass import getpass
+
+    import os
+
     if not os.path.isfile('credentials'):
         user = input('Username: ')
         password = getpass('Password: ')

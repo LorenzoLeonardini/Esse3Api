@@ -29,7 +29,7 @@ class Carriera:
         self.tasse_loaded = False
 
     def libretto(self, session):
-        if not self.carriera_completa[self.carriera_index].libretto_loaded:
+        if not self.libretto_loaded:
             data = session[0].get(session[1] + 'libretto-service-v2/libretti/' + str(self.matId) + '/righe')
             data = json.loads(data.text)
             self.libretto_obj = Libretto(data)
@@ -37,7 +37,7 @@ class Carriera:
         return self.libretto_obj
 
     def tasse(self, session):
-        if not self.carriera_completa[self.carriera_index].tasse_loaded:
+        if not self.tasse_loaded:
             data = session[0].get(session[1] + 'tasse-service-v1/semaforo/' + str(self.stuId))
             data = json.loads(data.text)
             self.tasse_obj = Tasse(data)
