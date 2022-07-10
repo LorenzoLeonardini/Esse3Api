@@ -39,7 +39,7 @@ I've made a list of all the endpoints I've found, they are already present in th
 | Università degli Studi della Campania Luigi Vanvitelli | :x: | :grey_question: |
 | Università Campus Bio-Medico di Roma | :x: | :grey_question: |
 | Università di Camerino | :x: | :grey_question: |
-| Università degli Studi di Cagliari | :x: | :grey_question: |
+| Università degli Studi di Cagliari | :heavy_check_mark: | :heavy_check_mark: |
 | Università degli Studi G. D'Annunzio Chieti Pescara | :x: | :grey_question: |
 | Università degli Studi di Firenze | :x: | :grey_question: |
 | Università degli Studi Guglielmo Marconi | :x: | :grey_question: |
